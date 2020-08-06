@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ハロルド","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"","traits":[{"code":22,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"妖精さん","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":22,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ハロルド2","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Actor1","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[{"code":22,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ハロルド3","nickname":"","note":"","profile":""}
+]
